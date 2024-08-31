@@ -1,0 +1,12 @@
+/* CASCADA */
+
+/* SINTAXIS */
+
+select
+{ 
+color: aquamarine;
+}
+p {
+    color: red
+    background-color:green;
+}
