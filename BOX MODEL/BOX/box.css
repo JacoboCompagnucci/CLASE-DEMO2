@@ -1,0 +1,55 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body {
+    background-color: crimson;
+}
+.titulo {
+    text-align: center;
+    font-size: 40px
+}
+.span {
+    font-size: 20px;s
+
+
+}
+.links  {
+    color: black;
+    text-decoration: none;
+    
+}
+.wepa {
+
+}
+
+.hero {
+    background-image: url("./wepish.jpg");
+    background-size: cover;
+    height: 60vh;
+
+
+
+}
+.subtitulo-hero {
+    font-size: 80px;
+    text-align: center;
+    padding-top: 60px;
+    text-shadow: white 1px 0 10px;
+}
+.domicilio {
+    font-size: 50px;
+    margin: 50px;
+    text-shadow: red 1px 0 20px;
+}
+.btn-contactanos-hero {
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    margin-left: 50px;
+    border: solid 1px black;
+    padding: 10px;
+    border-radius: 5rem;
+    background-color: rgba(0,0,0,0.5);
+}
